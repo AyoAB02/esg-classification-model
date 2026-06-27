@@ -1,6 +1,8 @@
 # Data
 *.csv
 *.xlsx
+!training_data.xlsx
+!test_data.xlsx
 *.xls
 *.json
 *.parquet
